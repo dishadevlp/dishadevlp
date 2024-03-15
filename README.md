@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dishadevlp
+- 👋 Hi, I’m @dcdevlp
 - 👀 I’m interested in coding and learning more about technology
 - 🌱 I’m currently learning web development (i am stil a noob )
-- i have a lot to learn as i am still a newbie in this field. technology never ceases to bore me as it always has someting to give :)
+- i have a lot to learn as i am still a newbie in this field...Technology never ceases to bore me as it always has someting to give :)
 - i hope we can collaborate soon and make exciting projects together :)
 
 <!---
