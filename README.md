@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning web development (i am stil a noob )
 - i have a lot to learn as i am still a newbie in this field...Technology never ceases to bore me as it always has someting to give :)
 - i hope we can collaborate soon and make exciting projects together :)
+#python #css #html #mySQL #pandas #matplotlib 
 
 <!---
 dishadevlp/dishadevlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
