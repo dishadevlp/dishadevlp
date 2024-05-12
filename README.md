@@ -6,6 +6,8 @@
 
 #python #python_pandas #python_matplotlib #css #html #mySQL 
 
+education : businesses analytics and data science (pursuing) 
+
 <!---
 dishadevlp/dishadevlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
