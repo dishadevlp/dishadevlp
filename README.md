@@ -5,7 +5,7 @@ I have a lot to learn as i am still a newbie in this field...Technology never ce
 
 #python #python_pandas #python_matplotlib #css #html #mySQL 
 
-education : businesses analytics and finance (pursuing) 
+education : businesses management and finance (pursuing) 
 
 <!---
 dishadevlp/dishadevlp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
