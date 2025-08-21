@@ -1,4 +1,4 @@
-hi!👋,  I’m Disha --> @dcdevlp
+hi!  I’m Disha --> @dcdevlp
 I’m interested in coding and learning more about technology, I’m currently learning web development 
 I have a lot to learn as i am still a newbie in this field...Technology never ceases to bore me as it always has someting to give :)
 ...Hope we can collaborate soon and make exciting projects together :)
